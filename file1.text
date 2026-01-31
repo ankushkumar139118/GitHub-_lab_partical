@@ -1,0 +1,5 @@
+
+To create a line break on GitHub (markdown, issues, PRs), add two spaces at the end of the line,
+use a backslash (\) at the end of the line,
+or use an HTML break tag (<br/>). For selecting multiple lines in a file,
+click the first line number, hold Shift, and click the last line number. 
