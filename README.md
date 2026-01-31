@@ -1,1 +1,1 @@
-# GitHub-_lab_partical
+okay# GitHub-_lab_partical
