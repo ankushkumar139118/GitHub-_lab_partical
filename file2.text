@@ -1,0 +1,4 @@
+Git branching creates an independent line of development, 
+allowing developers to work on new features or fixes without affecting the main codebase. It acts as a lightweight,
+movable pointer to a snapshot of changes, enabling parallel work and safer collaboration.
+Once complete, these branches can be merged back into the main branch
